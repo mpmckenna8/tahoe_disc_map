@@ -2,24 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="coffe_cup.svg"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    style="overflow:visible"
    id="svg2"
    viewBox="0 0 234.84373 245.56269"
    height="245.56268"
    width="234.84373"
-   version="1.1">
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/">
   <title
      id="title4458">Coffee cup icon</title>
   <metadata
@@ -86,16 +85,17 @@ Coffee smoke based on http://www.openclipart.org/detail/22305</dc:description>
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="2.102758"
-     inkscape:cx="117.42187"
-     inkscape:cy="122.78134"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="81.321769"
+     inkscape:cy="203.30442"
+     inkscape:window-x="140"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      inkscape:snap-bbox="false"
      inkscape:bbox-nodes="false"
      inkscape:object-paths="false"
-     inkscape:object-nodes="true" />
+     inkscape:object-nodes="true"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs133">
     <foreignObject
@@ -104,10 +104,7 @@ Coffee smoke based on http://www.openclipart.org/detail/22305</dc:description>
        width="1"
        x="0"
        y="0"
-       id="foreignObject8">
-      <i:pgfRef
-         xlink:href="#adobe_illustrator_pgf" />
-    </foreignObject>
+       id="foreignObject8" />
     <linearGradient
        x1="424.36719"
        y1="227.73579"
@@ -416,18 +413,18 @@ Coffee smoke based on http://www.openclipart.org/detail/22305</dc:description>
        inkscape:connector-curvature="0"
        id="path121"
        d="m 39.390618,106.375 c 1.318129,29.36828 9.649493,106.41704 28.875,125.09375 l 49.156242,0 49.15625,0 c 19.2255,-18.67671 27.55687,-95.72547 28.875,-125.09375 l -78.03125,0 z"
-       style="fill:#000000;fill-rule:evenodd" />
+       style="fill:#d40000;fill-rule:evenodd" />
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path123"
        d="M -7.258113e-6,239.40625 C 5.9712255,253.12113 26.253723,262.94387 38.187493,265.40625 l 79.234377,0 79.20312,0 c 11.93377,-2.46238 32.24752,-12.28512 38.21875,-26 l -117.42187,0 z"
-       style="fill:#000000;fill-rule:evenodd" />
+       style="fill:#ff2a2a;fill-rule:evenodd" />
     <path
        inkscape:connector-curvature="0"
        id="path3102"
        d="m 187.05803,106.375 c -26.50954,0 -48.21587,21.70634 -48.21587,48.21588 0,26.50954 21.70633,48.21587 48.21587,48.21587 26.50954,0 48.21588,-21.70633 48.21588,-48.21587 0,-26.50954 -21.70634,-48.21588 -48.21588,-48.21588 z m 0,20.00109 c 15.70075,0 28.21479,12.51404 28.21479,28.21479 0,15.70074 -12.51404,28.21479 -28.21479,28.21479 -15.70074,0 -28.21479,-12.51405 -28.21479,-28.21479 0,-15.70075 12.51405,-28.21479 28.21479,-28.21479 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:21.68632126;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:21.68632126;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <g
        transform="matrix(1.9754802,0,0,1.9754802,-641.32854,-2.8212592)"
        id="g4444">
