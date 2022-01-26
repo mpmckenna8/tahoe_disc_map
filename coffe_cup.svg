@@ -10,6 +10,9 @@
    height="245.56268"
    width="234.84373"
    version="1.1"
+   inkscape:export-filename="/Users/matthewmckenna/Documents/hub/tahoe_disc_map/coffe_cup.png"
+   inkscape:export-xdpi="40.878246"
+   inkscape:export-ydpi="40.878246"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -31,7 +34,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Coffee cup icon</dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
         <dc:date>2011-01-08</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -55,7 +58,7 @@
 Coffee smoke based on http://www.openclipart.org/detail/22305</dc:description>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -85,8 +88,8 @@ Coffee smoke based on http://www.openclipart.org/detail/22305</dc:description>
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="2.102758"
-     inkscape:cx="81.321769"
-     inkscape:cy="203.30442"
+     inkscape:cx="-25.918342"
+     inkscape:cy="101.53332"
      inkscape:window-x="140"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
